@@ -17,7 +17,7 @@ We strongly suggest forking the repository and placing source code of automated 
 The application is a slightly more sophisticated TODO items manager. Your job will be to:
 
 - Identify key functionalities of the application
-- Define 5 test cases covering functions of your choice
+- Define 5 test cases covering key functionalities of the application
 - Each test case should contain **at least** the following information:
   - Top-level description of tested functionality
   - Prerequisites (if needed)
